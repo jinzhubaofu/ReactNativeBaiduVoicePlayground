@@ -1,6 +1,7 @@
 package com.reactnativebaiduvoiceplayground;
 
 import com.facebook.react.ReactActivity;
+import com.github.alinz.reactnativewebviewbridge.WebViewBridgePackage;
 
 public class MainActivity extends ReactActivity {
 

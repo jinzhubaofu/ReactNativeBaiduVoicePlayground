@@ -8,6 +8,7 @@
   "dependencies": {
     "react": "15.2.1",
     "react-native": "0.29.0",
-    "react-native-baidu-voice-recognition": "^1.0.0"
+    "react-native-baidu-voice-recognition": "^1.0.0",
+    "react-native-webview-bridge": "git+https://github.com/alinz/react-native-webview-bridge.git"
   }
 }
